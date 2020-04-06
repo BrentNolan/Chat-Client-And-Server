@@ -1,5 +1,6 @@
 Brent Nolan
 
+Chat client and server
 
 Running chatserve.py:
 
